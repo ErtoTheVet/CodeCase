@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Config.API/Config.API.csproj" Id="cd66637e-d988-4100-a3ce-6106fe5337cf" />
+  <Project Path="SERVICE-A/Configuration.csproj" />
+  <Project Path="Tester/Tester.csproj" Id="a3891950-4757-40f8-9995-9608203ea1ca" />
+</Solution>
