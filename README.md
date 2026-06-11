@@ -1,1 +1,1 @@
-# SERVICE-A
+# Ertugrul Ozgen Code Case for Secil Store
